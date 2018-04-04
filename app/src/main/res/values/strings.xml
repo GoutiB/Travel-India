@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TIApp</string>
+    <string name="signout">Signout</string>
+    <string name="title_activity_user_maps">Map</string>
+    <string name="title_activity_user_map">Map</string>
+    <string name="title_activity_driver_map">Map</string>
+</resources>

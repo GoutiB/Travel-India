@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414923027490",
+    "firebase_url": "https://tiapp-e3193.firebaseio.com",
+    "project_id": "tiapp-e3193",
+    "storage_bucket": "tiapp-e3193.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414923027490:android:d7c6635fb7988de8",
+        "android_client_info": {
+          "package_name": "com.tiapp.tiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414923027490-0656sd4mm3r2lf9oe333qmbn3kvgd7ps.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiapp.tiapp",
+            "certificate_hash": "530e43f124cb7214ba26864f2269504ccee7573c"
+          }
+        },
+        {
+          "client_id": "414923027490-819vf95sv1louubfec1r02mfc73upn9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsZ3WkUdGj9aPDdiKgzvlw1XFoGPjOXc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414923027490-819vf95sv1louubfec1r02mfc73upn9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
