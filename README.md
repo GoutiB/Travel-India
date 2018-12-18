@@ -3,7 +3,7 @@
 
 <b>Travel India is an advanced bus tracking application where you can track bus location.</b>
 
-   
+   <img src="https://imgur.com/37CJwke" alt="Smiley face" height="42" width="30">
 <h2><b><font color="red">What are available in this Project:</font></b></h2>
 
 * A Splash Screen.
