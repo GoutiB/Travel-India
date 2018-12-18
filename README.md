@@ -4,7 +4,7 @@
 <b>Travel India is an advanced bus tracking application where you can track bus location.</b>
 
    
-<b><font color="red">What are available in this Project:</font></b>
+<h2><b><font color="red">What are available in this Project:</font></b></h2>
 
 * A Splash Screen.
 * google maps api.
@@ -12,7 +12,7 @@
 * login and Signup.
 * Automatic SMS manager.
 
-Features:
+<h2><b>Features:</b></h2>
 1)For Driver:
    * When driver starts journey , he logs in through a fixed account.
    * Then he enters his basic info.
@@ -30,10 +30,11 @@ Features:
    * No need of any message typing. Just press the button and the message will automatically be sent.
    
 
-<h1>
+<h3>
 I would be happy to accept contributions!!
-</h1>
-SPECIAL THANKS :
+</h3>
+
+<h3>SPECIAL THANKS:</h3>
 
 https://github.com/Bearded-Hen/Android-Bootstrap
 
