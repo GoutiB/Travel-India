@@ -18,6 +18,7 @@
    * Then he enters his basic info.
    * Now the bus data will be stored in FIREBASE.
    
+   
 2)For User:
    * There is a User section in app.
    * User can track the bus location based on availability.
