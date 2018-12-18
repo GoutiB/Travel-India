@@ -37,6 +37,7 @@
 <a href="https://imgur.com/27PHeeX"><img src="https://i.imgur.com/27PHeeX.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/q4WDc5X"><img src="https://i.imgur.com/q4WDc5X.png" title="source: imgur.com" /></a>
 
+**Use the json file provided to import to FIREBASE!!
 <h3>
 I would be happy to accept contributions!!
 </h3>
