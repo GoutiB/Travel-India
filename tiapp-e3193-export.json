@@ -1,0 +1,99 @@
+{
+  "driversavailable" : {
+    "2Qj4si2VDqSf69HsPGFpxDxvAO63" : {
+      ".priority" : "tu0gu06z78",
+      "g" : "tu0gu06z78",
+      "l" : [ 23.16180078877881, 79.9843961628535 ]
+    },
+    "pZpAFGqQH8ZCtlYWNy0lotJhaCW2" : {
+      ".priority" : "tu0gu06z3u",
+      "g" : "tu0gu06z3u",
+      "l" : [ 23.161819950866487, 79.98432412752939 ]
+    }
+  },
+  "usercontacts" : {
+    "EsxbUw9KdbQt9UPeJw1BaGQZHv22" : {
+      "fn1" : "9898989898",
+      "fn2" : "8989898989"
+    },
+    "TK4FIYLwGYbNyQ1MQmPZGEWe6SI3" : {
+      "fn1" : "3456734567",
+      "fn2" : "5678956789"
+    },
+    "cbq4upisLTXAjkeqlBQk41XvodL2" : {
+      "fn1" : "9515977239",
+      "fn2" : "7989789067"
+    }
+  },
+  "users" : {
+    "customers" : {
+      "C3eFgBvJLyRfqqMzwnfeHvzI0Mn2" : true,
+      "DP7ZRpxyc3NL3CNmmaOdFtCq8gJ2" : true,
+      "EhEkkDN7rSeMZ7fz3797kzb6D1i2" : true,
+      "EsxbUw9KdbQt9UPeJw1BaGQZHv22" : {
+        "name" : "goutib",
+        "phone" : "987654621"
+      },
+      "TK4FIYLwGYbNyQ1MQmPZGEWe6SI3" : {
+        "name" : "gui",
+        "phone" : "7898789878"
+      },
+      "cbq4upisLTXAjkeqlBQk41XvodL2" : {
+        "name" : "Goutham",
+        "phone" : "7989789067"
+      },
+      "mIV0q1t5ClWmAAqp6RVLeK3Xi4V2" : {
+        "name" : "Inam",
+        "phone" : "9898989898"
+      },
+      "okSOAbLQ1AYmscz24S3g8xAvtPC3" : true,
+      "q0S2Yd09wYgilGhffJD2GzOaa4D2" : true,
+      "wjoKdXdb9mSXUdum1drbNPYcjD72" : {
+        "name" : "Jimmy",
+        "phone" : "123456789"
+      },
+      "xjgWa1dpYueOByA0JG5Xv7EC3zF3" : {
+        "name" : "goutib",
+        "phone" : "7676767676"
+      },
+      "zOECKKhdJ4PEBtZnyjfSY17aSy52" : true
+    },
+    "drivers" : {
+      "2Qj4si2VDqSf69HsPGFpxDxvAO63" : {
+        "name" : "harshith",
+        "phone" : "987656789",
+        "time" : "6:45PM"
+      },
+      "cbq4upisLTXAjkeqlBQk41XvodL2" : {
+        "name" : "gouti",
+        "phone" : "987654321"
+      },
+      "djukhDFNHETu9BAgvLuNUA53XBf2" : {
+        "name" : "Srinivas",
+        "phone" : "8989898989",
+        "time" : "3:30PM"
+      },
+      "pZpAFGqQH8ZCtlYWNy0lotJhaCW2" : {
+        "name" : "chaitu",
+        "phone" : "987654321",
+        "time" : "3:30PM"
+      },
+      "zOECKKhdJ4PEBtZnyjfSY17aSy52" : {
+        "name" : "hari",
+        "phone" : "8989033661"
+      }
+    }
+  },
+  "usersavailable" : {
+    "pZpAFGqQH8ZCtlYWNy0lotJhaCW2" : {
+      ".priority" : "tu0gu06z3w",
+      "g" : "tu0gu06z3w",
+      "l" : [ 23.161829963413417, 79.98431877001664 ]
+    },
+    "zOECKKhdJ4PEBtZnyjfSY17aSy52" : {
+      ".priority" : "tu0gugm08b",
+      "g" : "tu0gugm08b",
+      "l" : [ 23.1771233, 80.0203333 ]
+    }
+  }
+}
