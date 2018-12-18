@@ -3,7 +3,7 @@
 
 <b>Travel India is an advanced bus tracking application where you can track bus location.</b>
 
-  <a href="https://imgur.com/37CJwke"><img src="https://i.imgur.com/37CJwke.png" title="source: imgur.com" /></a>
+  
 <h2><b><font color="red">What are available in this Project:</font></b></h2>
 
 * A Splash Screen.
@@ -30,6 +30,12 @@
    * in case of trouble just press the help button and your location will be automatically sent to them.
    * No need of any message typing. Just press the button and the message will automatically be sent.
    
+<a href="https://imgur.com/37CJwke"><img src="https://i.imgur.com/37CJwke.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/IwNdC9r"><img src="https://i.imgur.com/IwNdC9r.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/kIN4JaS"><img src="https://i.imgur.com/kIN4JaS.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/jaDH86H"><img src="https://i.imgur.com/jaDH86H.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/27PHeeX"><img src="https://i.imgur.com/27PHeeX.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/q4WDc5X"><img src="https://i.imgur.com/q4WDc5X.png" title="source: imgur.com" /></a>
 
 <h3>
 I would be happy to accept contributions!!
