@@ -4,7 +4,7 @@
 <b>Travel India is an advanced bus tracking application where you can track bus location.</b>
 
    
-<b>What are available in this Project:</b>
+<b><font color="red">What are available in this Project:</font></b>
 
 * A Splash Screen.
 * google maps api.
